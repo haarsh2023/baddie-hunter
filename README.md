@@ -1,0 +1,1 @@
+just the in production draft of our game baddie-hunter which is a simple platformer  in which we have our hero (Patrick Jane) wants to meet her girl but its not smooth as butter he have some obstacles and a long path to cross for meeting her, if he clear those obstacles he would meet her, if he cant he kept trying, cause a man never losses his hope.
